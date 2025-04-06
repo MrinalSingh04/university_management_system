@@ -104,6 +104,6 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network goerli
 ```
 
-##📄 License
+📄 License
 
 MIT License. Use, modify, and distribute freely.
